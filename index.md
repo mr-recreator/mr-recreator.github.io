@@ -38,15 +38,10 @@
 </style>
 
 <div class="center-header">
-
-# Welcome to My Security Lab 🧪
-
-Hey, I am **Yash** a.k.a **mr-recreator**.
-
-### 17-year-old Cybersecurity Researcher | CTF Grinder | Web Developer | Reverse Engineer
-
-*"I build things to understand how to break them, and I break things to learn how to fix them."*
-
+  <h1>Welcome to My Security Lab 🧪</h1>
+  <p>Hey, I am <strong>Yash</strong> a.k.a <strong>mr-recreator</strong>.</p>
+  <h3>17-year-old Cybersecurity Researcher | CTF Grinder | Web Developer | Reverse Engineer</h3>
+  <p><em>"I build things to understand how to break them, and I break things to learn how to fix them."</em></p>
 </div>
 
 <div class="accent-line"></div>
