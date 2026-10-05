@@ -59,7 +59,7 @@ I am a high-school learner diving straight into low-level systems and applicatio
 
 ## 🔬 Current Lab Experiments:
 * **Ghidra Binary Analysis:** Analyzing compiled C/C++ binaries to trace variables moving onto the stack and understanding how CPU assembly jumps function.
-* **Manual Web Auditing:** Injecting custom payloads into local database inputs to observe raw backend behavior, input sanitization flaws, and SQL/logic constraints.
+* **Manual Web Auditing:** Injecting custom payloads into local database inputs to observe raw backend behavior, input sanitization flaws.
 
 <div class="accent-line"></div>
 
